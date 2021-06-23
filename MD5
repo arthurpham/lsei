@@ -1,0 +1,13 @@
+ccfb91e4a01b58c1fb2b1deb307c726e *DESCRIPTION
+c0e6576b8aab4e8dab97a269741ec0aa *NAMESPACE
+cd864765c892737ca0e52c91dd44a508 *R/lsei.R
+978afea699ea14294c64b54d09ce9ad8 *R/utils.R
+e61f5b877d010d7fe349c82acc341276 *man/hfti.Rd
+4f16062de246ab50b4246ecf03ecab4d *man/indx.Rd
+4dcdca6d5f094c517c4cb44f45e980d8 *man/lsei.Rd
+7172177e494d1939305324a8135daf29 *man/matMaxs.Rd
+af19532a0c31259bcb93f5c407b224ef *man/nnls.Rd
+626dfb29e59b4d1da10b29bd1fe515e4 *src/init.c
+69b290bff80b74e0be0fa1fe262dc5ca *src/lsei.f
+4d2f1ffad947b47fdad0496a8df44f9b *src/pnnls.f
+35415e1f7f959a1c9943490a80995c56 *src/utils.c

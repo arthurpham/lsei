@@ -1,0 +1,12 @@
+useDynLib(lsei, .registration = TRUE)
+
+export(hfti)
+export(indx)
+export(ldp)
+export(lsei)
+export(lsi)
+export(matMaxs)
+export(nnls)
+export(pnnls)
+export(pnnqp)
+export(qp)
